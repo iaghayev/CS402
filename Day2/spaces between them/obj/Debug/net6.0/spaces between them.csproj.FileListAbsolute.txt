@@ -1,0 +1,14 @@
+C:\Users\ismayil_aghayev\Desktop\CS402\Day2\spaces between them\bin\Debug\net6.0\spaces between them.exe
+C:\Users\ismayil_aghayev\Desktop\CS402\Day2\spaces between them\bin\Debug\net6.0\spaces between them.deps.json
+C:\Users\ismayil_aghayev\Desktop\CS402\Day2\spaces between them\bin\Debug\net6.0\spaces between them.runtimeconfig.json
+C:\Users\ismayil_aghayev\Desktop\CS402\Day2\spaces between them\bin\Debug\net6.0\spaces between them.dll
+C:\Users\ismayil_aghayev\Desktop\CS402\Day2\spaces between them\bin\Debug\net6.0\spaces between them.pdb
+C:\Users\ismayil_aghayev\Desktop\CS402\Day2\spaces between them\obj\Debug\net6.0\spaces between them.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ismayil_aghayev\Desktop\CS402\Day2\spaces between them\obj\Debug\net6.0\spaces between them.AssemblyInfoInputs.cache
+C:\Users\ismayil_aghayev\Desktop\CS402\Day2\spaces between them\obj\Debug\net6.0\spaces between them.AssemblyInfo.cs
+C:\Users\ismayil_aghayev\Desktop\CS402\Day2\spaces between them\obj\Debug\net6.0\spaces between them.csproj.CoreCompileInputs.cache
+C:\Users\ismayil_aghayev\Desktop\CS402\Day2\spaces between them\obj\Debug\net6.0\spaces between them.dll
+C:\Users\ismayil_aghayev\Desktop\CS402\Day2\spaces between them\obj\Debug\net6.0\refint\spaces between them.dll
+C:\Users\ismayil_aghayev\Desktop\CS402\Day2\spaces between them\obj\Debug\net6.0\spaces between them.pdb
+C:\Users\ismayil_aghayev\Desktop\CS402\Day2\spaces between them\obj\Debug\net6.0\spaces between them.genruntimeconfig.cache
+C:\Users\ismayil_aghayev\Desktop\CS402\Day2\spaces between them\obj\Debug\net6.0\ref\spaces between them.dll

@@ -1,0 +1,14 @@
+C:\Users\ismayil_aghayev\Desktop\CS402\Day2\Add AZE\bin\Debug\net6.0\Add AZE.exe
+C:\Users\ismayil_aghayev\Desktop\CS402\Day2\Add AZE\bin\Debug\net6.0\Add AZE.deps.json
+C:\Users\ismayil_aghayev\Desktop\CS402\Day2\Add AZE\bin\Debug\net6.0\Add AZE.runtimeconfig.json
+C:\Users\ismayil_aghayev\Desktop\CS402\Day2\Add AZE\bin\Debug\net6.0\Add AZE.dll
+C:\Users\ismayil_aghayev\Desktop\CS402\Day2\Add AZE\bin\Debug\net6.0\Add AZE.pdb
+C:\Users\ismayil_aghayev\Desktop\CS402\Day2\Add AZE\obj\Debug\net6.0\Add AZE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ismayil_aghayev\Desktop\CS402\Day2\Add AZE\obj\Debug\net6.0\Add AZE.AssemblyInfoInputs.cache
+C:\Users\ismayil_aghayev\Desktop\CS402\Day2\Add AZE\obj\Debug\net6.0\Add AZE.AssemblyInfo.cs
+C:\Users\ismayil_aghayev\Desktop\CS402\Day2\Add AZE\obj\Debug\net6.0\Add AZE.csproj.CoreCompileInputs.cache
+C:\Users\ismayil_aghayev\Desktop\CS402\Day2\Add AZE\obj\Debug\net6.0\Add AZE.dll
+C:\Users\ismayil_aghayev\Desktop\CS402\Day2\Add AZE\obj\Debug\net6.0\refint\Add AZE.dll
+C:\Users\ismayil_aghayev\Desktop\CS402\Day2\Add AZE\obj\Debug\net6.0\Add AZE.pdb
+C:\Users\ismayil_aghayev\Desktop\CS402\Day2\Add AZE\obj\Debug\net6.0\Add AZE.genruntimeconfig.cache
+C:\Users\ismayil_aghayev\Desktop\CS402\Day2\Add AZE\obj\Debug\net6.0\ref\Add AZE.dll

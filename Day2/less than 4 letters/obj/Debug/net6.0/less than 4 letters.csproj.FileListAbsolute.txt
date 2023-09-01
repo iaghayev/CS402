@@ -1,0 +1,14 @@
+C:\Users\ismayil_aghayev\Desktop\CS402\Day2\less than 4 letters\bin\Debug\net6.0\less than 4 letters.exe
+C:\Users\ismayil_aghayev\Desktop\CS402\Day2\less than 4 letters\bin\Debug\net6.0\less than 4 letters.deps.json
+C:\Users\ismayil_aghayev\Desktop\CS402\Day2\less than 4 letters\bin\Debug\net6.0\less than 4 letters.runtimeconfig.json
+C:\Users\ismayil_aghayev\Desktop\CS402\Day2\less than 4 letters\bin\Debug\net6.0\less than 4 letters.dll
+C:\Users\ismayil_aghayev\Desktop\CS402\Day2\less than 4 letters\bin\Debug\net6.0\less than 4 letters.pdb
+C:\Users\ismayil_aghayev\Desktop\CS402\Day2\less than 4 letters\obj\Debug\net6.0\less than 4 letters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ismayil_aghayev\Desktop\CS402\Day2\less than 4 letters\obj\Debug\net6.0\less than 4 letters.AssemblyInfoInputs.cache
+C:\Users\ismayil_aghayev\Desktop\CS402\Day2\less than 4 letters\obj\Debug\net6.0\less than 4 letters.AssemblyInfo.cs
+C:\Users\ismayil_aghayev\Desktop\CS402\Day2\less than 4 letters\obj\Debug\net6.0\less than 4 letters.csproj.CoreCompileInputs.cache
+C:\Users\ismayil_aghayev\Desktop\CS402\Day2\less than 4 letters\obj\Debug\net6.0\less than 4 letters.dll
+C:\Users\ismayil_aghayev\Desktop\CS402\Day2\less than 4 letters\obj\Debug\net6.0\refint\less than 4 letters.dll
+C:\Users\ismayil_aghayev\Desktop\CS402\Day2\less than 4 letters\obj\Debug\net6.0\less than 4 letters.pdb
+C:\Users\ismayil_aghayev\Desktop\CS402\Day2\less than 4 letters\obj\Debug\net6.0\less than 4 letters.genruntimeconfig.cache
+C:\Users\ismayil_aghayev\Desktop\CS402\Day2\less than 4 letters\obj\Debug\net6.0\ref\less than 4 letters.dll

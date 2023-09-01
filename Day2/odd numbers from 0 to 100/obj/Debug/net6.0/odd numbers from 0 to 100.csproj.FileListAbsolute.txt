@@ -1,0 +1,14 @@
+C:\Users\ismayil_aghayev\Desktop\CS402\Day2\odd numbers from 0 to 100\bin\Debug\net6.0\odd numbers from 0 to 100.exe
+C:\Users\ismayil_aghayev\Desktop\CS402\Day2\odd numbers from 0 to 100\bin\Debug\net6.0\odd numbers from 0 to 100.deps.json
+C:\Users\ismayil_aghayev\Desktop\CS402\Day2\odd numbers from 0 to 100\bin\Debug\net6.0\odd numbers from 0 to 100.runtimeconfig.json
+C:\Users\ismayil_aghayev\Desktop\CS402\Day2\odd numbers from 0 to 100\bin\Debug\net6.0\odd numbers from 0 to 100.dll
+C:\Users\ismayil_aghayev\Desktop\CS402\Day2\odd numbers from 0 to 100\bin\Debug\net6.0\odd numbers from 0 to 100.pdb
+C:\Users\ismayil_aghayev\Desktop\CS402\Day2\odd numbers from 0 to 100\obj\Debug\net6.0\odd numbers from 0 to 100.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ismayil_aghayev\Desktop\CS402\Day2\odd numbers from 0 to 100\obj\Debug\net6.0\odd numbers from 0 to 100.AssemblyInfoInputs.cache
+C:\Users\ismayil_aghayev\Desktop\CS402\Day2\odd numbers from 0 to 100\obj\Debug\net6.0\odd numbers from 0 to 100.AssemblyInfo.cs
+C:\Users\ismayil_aghayev\Desktop\CS402\Day2\odd numbers from 0 to 100\obj\Debug\net6.0\odd numbers from 0 to 100.csproj.CoreCompileInputs.cache
+C:\Users\ismayil_aghayev\Desktop\CS402\Day2\odd numbers from 0 to 100\obj\Debug\net6.0\odd numbers from 0 to 100.dll
+C:\Users\ismayil_aghayev\Desktop\CS402\Day2\odd numbers from 0 to 100\obj\Debug\net6.0\refint\odd numbers from 0 to 100.dll
+C:\Users\ismayil_aghayev\Desktop\CS402\Day2\odd numbers from 0 to 100\obj\Debug\net6.0\odd numbers from 0 to 100.pdb
+C:\Users\ismayil_aghayev\Desktop\CS402\Day2\odd numbers from 0 to 100\obj\Debug\net6.0\odd numbers from 0 to 100.genruntimeconfig.cache
+C:\Users\ismayil_aghayev\Desktop\CS402\Day2\odd numbers from 0 to 100\obj\Debug\net6.0\ref\odd numbers from 0 to 100.dll

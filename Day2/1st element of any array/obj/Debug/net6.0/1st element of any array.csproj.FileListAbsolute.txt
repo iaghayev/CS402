@@ -1,0 +1,14 @@
+C:\Users\ismayil_aghayev\Desktop\CS402\Day2\1st element of any array\bin\Debug\net6.0\1st element of any array.exe
+C:\Users\ismayil_aghayev\Desktop\CS402\Day2\1st element of any array\bin\Debug\net6.0\1st element of any array.deps.json
+C:\Users\ismayil_aghayev\Desktop\CS402\Day2\1st element of any array\bin\Debug\net6.0\1st element of any array.runtimeconfig.json
+C:\Users\ismayil_aghayev\Desktop\CS402\Day2\1st element of any array\bin\Debug\net6.0\1st element of any array.dll
+C:\Users\ismayil_aghayev\Desktop\CS402\Day2\1st element of any array\bin\Debug\net6.0\1st element of any array.pdb
+C:\Users\ismayil_aghayev\Desktop\CS402\Day2\1st element of any array\obj\Debug\net6.0\1st element of any array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ismayil_aghayev\Desktop\CS402\Day2\1st element of any array\obj\Debug\net6.0\1st element of any array.AssemblyInfoInputs.cache
+C:\Users\ismayil_aghayev\Desktop\CS402\Day2\1st element of any array\obj\Debug\net6.0\1st element of any array.AssemblyInfo.cs
+C:\Users\ismayil_aghayev\Desktop\CS402\Day2\1st element of any array\obj\Debug\net6.0\1st element of any array.csproj.CoreCompileInputs.cache
+C:\Users\ismayil_aghayev\Desktop\CS402\Day2\1st element of any array\obj\Debug\net6.0\1st element of any array.dll
+C:\Users\ismayil_aghayev\Desktop\CS402\Day2\1st element of any array\obj\Debug\net6.0\refint\1st element of any array.dll
+C:\Users\ismayil_aghayev\Desktop\CS402\Day2\1st element of any array\obj\Debug\net6.0\1st element of any array.pdb
+C:\Users\ismayil_aghayev\Desktop\CS402\Day2\1st element of any array\obj\Debug\net6.0\1st element of any array.genruntimeconfig.cache
+C:\Users\ismayil_aghayev\Desktop\CS402\Day2\1st element of any array\obj\Debug\net6.0\ref\1st element of any array.dll

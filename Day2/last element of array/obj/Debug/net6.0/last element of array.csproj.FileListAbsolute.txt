@@ -1,0 +1,14 @@
+C:\Users\ismayil_aghayev\Desktop\CS402\Day2\last element of array\bin\Debug\net6.0\last element of array.exe
+C:\Users\ismayil_aghayev\Desktop\CS402\Day2\last element of array\bin\Debug\net6.0\last element of array.deps.json
+C:\Users\ismayil_aghayev\Desktop\CS402\Day2\last element of array\bin\Debug\net6.0\last element of array.runtimeconfig.json
+C:\Users\ismayil_aghayev\Desktop\CS402\Day2\last element of array\bin\Debug\net6.0\last element of array.dll
+C:\Users\ismayil_aghayev\Desktop\CS402\Day2\last element of array\bin\Debug\net6.0\last element of array.pdb
+C:\Users\ismayil_aghayev\Desktop\CS402\Day2\last element of array\obj\Debug\net6.0\last element of array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ismayil_aghayev\Desktop\CS402\Day2\last element of array\obj\Debug\net6.0\last element of array.AssemblyInfoInputs.cache
+C:\Users\ismayil_aghayev\Desktop\CS402\Day2\last element of array\obj\Debug\net6.0\last element of array.AssemblyInfo.cs
+C:\Users\ismayil_aghayev\Desktop\CS402\Day2\last element of array\obj\Debug\net6.0\last element of array.csproj.CoreCompileInputs.cache
+C:\Users\ismayil_aghayev\Desktop\CS402\Day2\last element of array\obj\Debug\net6.0\last element of array.dll
+C:\Users\ismayil_aghayev\Desktop\CS402\Day2\last element of array\obj\Debug\net6.0\refint\last element of array.dll
+C:\Users\ismayil_aghayev\Desktop\CS402\Day2\last element of array\obj\Debug\net6.0\last element of array.pdb
+C:\Users\ismayil_aghayev\Desktop\CS402\Day2\last element of array\obj\Debug\net6.0\last element of array.genruntimeconfig.cache
+C:\Users\ismayil_aghayev\Desktop\CS402\Day2\last element of array\obj\Debug\net6.0\ref\last element of array.dll
