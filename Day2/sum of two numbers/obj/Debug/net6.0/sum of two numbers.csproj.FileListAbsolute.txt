@@ -1,0 +1,14 @@
+C:\Users\ismayil_aghayev\Desktop\C402\sum of two numbers\bin\Debug\net6.0\sum of two numbers.exe
+C:\Users\ismayil_aghayev\Desktop\C402\sum of two numbers\bin\Debug\net6.0\sum of two numbers.deps.json
+C:\Users\ismayil_aghayev\Desktop\C402\sum of two numbers\bin\Debug\net6.0\sum of two numbers.runtimeconfig.json
+C:\Users\ismayil_aghayev\Desktop\C402\sum of two numbers\bin\Debug\net6.0\sum of two numbers.dll
+C:\Users\ismayil_aghayev\Desktop\C402\sum of two numbers\bin\Debug\net6.0\sum of two numbers.pdb
+C:\Users\ismayil_aghayev\Desktop\C402\sum of two numbers\obj\Debug\net6.0\sum of two numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ismayil_aghayev\Desktop\C402\sum of two numbers\obj\Debug\net6.0\sum of two numbers.AssemblyInfoInputs.cache
+C:\Users\ismayil_aghayev\Desktop\C402\sum of two numbers\obj\Debug\net6.0\sum of two numbers.AssemblyInfo.cs
+C:\Users\ismayil_aghayev\Desktop\C402\sum of two numbers\obj\Debug\net6.0\sum of two numbers.csproj.CoreCompileInputs.cache
+C:\Users\ismayil_aghayev\Desktop\C402\sum of two numbers\obj\Debug\net6.0\sum of two numbers.dll
+C:\Users\ismayil_aghayev\Desktop\C402\sum of two numbers\obj\Debug\net6.0\refint\sum of two numbers.dll
+C:\Users\ismayil_aghayev\Desktop\C402\sum of two numbers\obj\Debug\net6.0\sum of two numbers.pdb
+C:\Users\ismayil_aghayev\Desktop\C402\sum of two numbers\obj\Debug\net6.0\sum of two numbers.genruntimeconfig.cache
+C:\Users\ismayil_aghayev\Desktop\C402\sum of two numbers\obj\Debug\net6.0\ref\sum of two numbers.dll

@@ -1,0 +1,14 @@
+C:\Users\ismayil_aghayev\Desktop\C402\product of the sum and difference of two numbers\bin\Debug\net6.0\product of the sum and difference of two numbers.exe
+C:\Users\ismayil_aghayev\Desktop\C402\product of the sum and difference of two numbers\bin\Debug\net6.0\product of the sum and difference of two numbers.deps.json
+C:\Users\ismayil_aghayev\Desktop\C402\product of the sum and difference of two numbers\bin\Debug\net6.0\product of the sum and difference of two numbers.runtimeconfig.json
+C:\Users\ismayil_aghayev\Desktop\C402\product of the sum and difference of two numbers\bin\Debug\net6.0\product of the sum and difference of two numbers.dll
+C:\Users\ismayil_aghayev\Desktop\C402\product of the sum and difference of two numbers\bin\Debug\net6.0\product of the sum and difference of two numbers.pdb
+C:\Users\ismayil_aghayev\Desktop\C402\product of the sum and difference of two numbers\obj\Debug\net6.0\product of the sum and difference of two numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ismayil_aghayev\Desktop\C402\product of the sum and difference of two numbers\obj\Debug\net6.0\product of the sum and difference of two numbers.AssemblyInfoInputs.cache
+C:\Users\ismayil_aghayev\Desktop\C402\product of the sum and difference of two numbers\obj\Debug\net6.0\product of the sum and difference of two numbers.AssemblyInfo.cs
+C:\Users\ismayil_aghayev\Desktop\C402\product of the sum and difference of two numbers\obj\Debug\net6.0\product of the sum and difference of two numbers.csproj.CoreCompileInputs.cache
+C:\Users\ismayil_aghayev\Desktop\C402\product of the sum and difference of two numbers\obj\Debug\net6.0\product of the sum and difference of two numbers.dll
+C:\Users\ismayil_aghayev\Desktop\C402\product of the sum and difference of two numbers\obj\Debug\net6.0\refint\product of the sum and difference of two numbers.dll
+C:\Users\ismayil_aghayev\Desktop\C402\product of the sum and difference of two numbers\obj\Debug\net6.0\product of the sum and difference of two numbers.pdb
+C:\Users\ismayil_aghayev\Desktop\C402\product of the sum and difference of two numbers\obj\Debug\net6.0\product of the sum and difference of two numbers.genruntimeconfig.cache
+C:\Users\ismayil_aghayev\Desktop\C402\product of the sum and difference of two numbers\obj\Debug\net6.0\ref\product of the sum and difference of two numbers.dll
